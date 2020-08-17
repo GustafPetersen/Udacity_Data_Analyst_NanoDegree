@@ -1,4 +1,4 @@
-# Project 1: Explore Weather Trends
+### Project 1: Explore Weather Trends
 Analysed the local (my hometown) against the global temperature data and compare the trends.
 This project entailed the following stpes:
 1. Extract data using SQL.
